@@ -1,3 +1,13 @@
 *.txt
 *.csv
+*.db
+*.json
 *.xlsx
+*.lnk
+*.dat
+/__pycache__/
+*/__pycache__/
+/.pytest_cache/
+*/.pytest_cache/
+/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
